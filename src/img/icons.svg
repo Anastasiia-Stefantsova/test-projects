@@ -1,0 +1,32 @@
+<svg width="811" height="822" viewBox="0 0 811 822" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_f_2056_2049)">
+    <rect width="11.2338" height="11.2422" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 533.854 703.855)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="11.4223" height="11.4308" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 604.678 536.348)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="15.739" height="15.7507" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 581.068 816.1)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="15.7274" height="15.739" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 470.895 769.154)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="5.71115" height="5.7154" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 318.002 753.227)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="5.71115" height="5.7154" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 511.367 626.189)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="5.71115" height="5.7154" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 747.451 804.939)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="5.71115" height="5.7154" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 800.291 732.99)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="11.2422" height="11.2505" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 657.516 727.463)" fill="#14C57C" fill-opacity="0.8" />
+    <rect width="5.71115" height="5.7154" rx="1.12422" transform="matrix(1 -8.74877e-08 -8.73579e-08 -1 693.49 628.438)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="356.588" y="424.924" width="9.65888" height="9.66605" rx="1.06286" transform="rotate(-90 356.588 424.924)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="484.23" y="364.246" width="4.25144" height="4.25144" rx="1.06286" transform="rotate(-90 484.23 364.246)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="5" y="321.299" width="4.25144" height="4.25144" rx="1.06286" transform="rotate(-90 5 321.299)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="248.176" y="360.088" width="9.65888" height="9.66605" rx="1.06286" transform="rotate(-90 248.176 360.088)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="132.844" y="350.609" width="19.3178" height="19.3321" rx="1.06286" transform="rotate(-90 132.844 350.609)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="295.938" y="440.928" width="16.0981" height="16.1101" rx="1.06286" transform="rotate(-90 295.938 440.928)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="195.133" y="201.631" width="8.50287" height="8.50287" rx="1.06286" transform="rotate(-90 195.133 201.631)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="575.57" y="249.521" width="6.43925" height="6.44403" rx="1.06286" transform="rotate(-90 575.57 249.521)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="299.26" y="292.744" width="12.7543" height="12.7543" rx="1.06286" transform="rotate(-90 299.26 292.744)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="423.385" y="303.619" width="10.6286" height="10.6286" rx="1.06286" transform="rotate(-90 423.385 303.619)" fill="#14C57C" fill-opacity="0.8" />
+    <rect x="149.363" y="11.4395" width="6.43925" height="6.44403" rx="1.06286" transform="rotate(-90 149.363 11.4395)" fill="#14C57C" fill-opacity="0.8" />
+  </g>
+  <defs>
+    <filter id="filter0_f_2056_2049" x="0" y="0" width="811.002" height="821.1" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="2.5" result="effect1_foregroundBlur_2056_2049" />
+    </filter>
+  </defs>
+</svg>
